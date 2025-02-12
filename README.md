@@ -1,1 +1,1 @@
-# gptgirlfriend
+# AI Companion Framework
